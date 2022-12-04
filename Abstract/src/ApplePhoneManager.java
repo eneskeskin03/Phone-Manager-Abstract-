@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 /**
  * @author ENES
  * 14 Kas 2022
