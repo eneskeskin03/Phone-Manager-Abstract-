@@ -8,7 +8,6 @@
 
 public class ApplePhoneManager extends BasePhoneManager {
 	
-	
 	public ApplePhoneManager() {
 		 
 		this.setGenelMerkez("Cupertino, Kaliforniya, ABD");

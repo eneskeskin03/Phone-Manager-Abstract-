@@ -45,6 +45,5 @@ public class HuaweiPhoneManager extends BasePhoneManager {
 		this.setPhone3(33690);
 		System.out.println("Huawei Mate Xs icin Fiyat Hesaplamasi Yapiliyor... ");
 		System.out.println("Huawei Mate Xs  Fiyati: " + this.phone3 + "TL \nIndirimli Fiyati: " + (this.phone3*iskonto) + "TL'dir");
-	
 	}	
 }

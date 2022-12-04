@@ -45,6 +45,5 @@ public class SamsungPhoneManager extends BasePhoneManager {
 		this.setPhone3(18499);
 		System.out.println("Samsung Galaxy S22 icin Fiyat Hesaplamasi Yapiliyor... ");		
 		System.out.println("Samsung Galaxy S22 Fiyati: " + (this.phone3) + "TL \nIndirimli Fiyati: " + (this.phone3+iskonto) + "TL'dir");
-	
 	}
 }
